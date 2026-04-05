@@ -46,7 +46,9 @@ POST `/predict`
 {
   "data": [[...]]
 }
+```
 ### Example Output:
+```json
 {
   "prediction": 1
 }
